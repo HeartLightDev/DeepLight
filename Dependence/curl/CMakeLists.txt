@@ -1341,9 +1341,10 @@ endif()
 cmake_dependent_option(BUILD_TESTING "Build tests"
   ON "PERL_FOUND;NOT CURL_DISABLE_TESTS"
   OFF)
-if(BUILD_TESTING)
-  add_subdirectory(tests)
-endif()
+
+#if(BUILD_TESTING)
+#  add_subdirectory(tests)
+#endif()
 
 # Helper to populate a list (_items) with a label when conditions (the remaining
 # args) are satisfied

@@ -5,3 +5,5 @@
 
 # Build Folder
 build/
+**/build/
+**/lib/

@@ -5,7 +5,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HeartLightDev/DeepLight?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/HeartLightDev/DeepLight?color=blue&style=flat-square)
 
-__DeepLight engine is base on ![OpenGL](https://img.shields.io/badge/OpenGL-lightgray?style=flat-square&logo=OpenGL)__
+__DeepLight engine is base on ![OpenGL](https://img.shields.io/badge/OpenGL-%23323232?style=flat-square&logo=OpenGL)__
 
 ## Compile
 - __Clone repo `git clone https://github.com/HeartLightDev/DeepLight.git`__
